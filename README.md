@@ -1,4 +1,4 @@
-# Rain-prediction-in-Australia
+# Rain prediction in Australia with Machine Learning
 
 for this project, I will use a rainfall dataset from the Australian Government's Bureau of Meteorology, clean the data, and apply different classification algorithms to the data to predict whether there will be rain the following day 
 
